@@ -1,2 +1,0 @@
-# hyperblog
-Curso de platzi
