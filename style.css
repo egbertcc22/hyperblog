@@ -26,6 +26,7 @@ body{
     font-family: arial;
 }
 #container{
+    background-color: #ddd;
     width: 70%;
     padding: 0;
     text-align: left;
@@ -38,14 +39,10 @@ body{
 }
 #post{
     padding: 1em;
-<<<<<<< HEAD
-    color: #ddd;
-=======
 }
 #footer{
     background-color: #332;
     color: #ddd;
     padding: 1em;
     text-align: center;
->>>>>>> footer
 }
